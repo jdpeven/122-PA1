@@ -1,0 +1,23 @@
+﻿  main.c
+c:\users\jackson peven\desktop\to documents\visual studio 2012\projects\pa1\pa1\main.c(31): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\jackson peven\desktop\to documents\visual studio 2012\projects\pa1\pa1\main.c(47): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\jackson peven\desktop\to documents\visual studio 2012\projects\pa1\pa1\main.c(81): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\jackson peven\desktop\to documents\visual studio 2012\projects\pa1\pa1\main.c(200): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\jackson peven\desktop\to documents\visual studio 2012\projects\pa1\pa1\main.c(223): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+  functions.c
+c:\users\jackson peven\desktop\to documents\visual studio 2012\projects\pa1\pa1\functions.c(8): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\jackson peven\desktop\to documents\visual studio 2012\projects\pa1\pa1\functions.c(10): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\jackson peven\desktop\to documents\visual studio 2012\projects\pa1\pa1\functions.c(11): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\jackson peven\desktop\to documents\visual studio 2012\projects\pa1\pa1\functions.c(12): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+  Generating Code...
+  PA1.vcxproj -> C:\Users\Jackson Peven\Desktop\to documents\Visual Studio 2012\Projects\PA1\Debug\PA1.exe
+  PA1.vcxproj -> C:\Users\Jackson Peven\Desktop\to documents\Visual Studio 2012\Projects\PA1\Debug\PA1.pdb (Full PDB)
